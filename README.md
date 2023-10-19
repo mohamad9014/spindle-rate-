@@ -12,8 +12,14 @@ d) z-score
 And we consider the time peak as the spindle
 Periods  with amplitude larger than 3 SD(standard division ) for a duration greater than 0.5 s and lower than 3 s were selected as spindle events. Two nearby events were merged if they were closer than 0.5 s. 
 Important point : We separated the data related to NREM And gave them to the filter input
+
 bottom  figure illustrates   raw data(AD) ,filtered data,start and stop spindle ,and peak spindle 
 ![3](https://github.com/mohamad9014/spindle-rate-/assets/121359931/b9fd95c1-4368-44d7-a94a-e4a05729a72c)
+
+Then I separated NREM,REM,WAKE and displayed peak spindles for each of them.Representative spatiotemporal distribution of spindles across the vigilance states.  Hypnogram is depicted below.
+![1](https://github.com/mohamad9014/spindle-rate-/assets/121359931/ce0ef7c3-e15a-4c4c-a7ea-c4d6f2d07368)
+
+
 
 
 
