@@ -12,6 +12,8 @@ d) z-score
 And we consider the time peak as the spindle
 Periods  with amplitude larger than 3 SD(standard division ) for a duration greater than 0.5 s and lower than 3 s were selected as spindle events. Two nearby events were merged if they were closer than 0.5 s. 
 Important point : We separated the data related to NREM And gave them to the filter input
+bottom  figure illustrates   raw data(AD) ,filtered data,start and stop spindle ,and peak spindle 
+
 
 
 
