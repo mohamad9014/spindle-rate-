@@ -31,6 +31,14 @@ Number of transmission to wake =1
 in addition,I  calculate the time duration of each one .then I divided the total number of spindles by the interval and finally,multiplied by 60 to convert to minutes
 ![4](https://github.com/mohamad9014/spindle-rate-/assets/121359931/ef9d5a21-69ac-4a4c-9a81-a32086c963a7)
 
+To show that there is a change between the three graphs, we use ANOVA1 (One-way analysis of variance)
+![5](https://github.com/mohamad9014/spindle-rate-/assets/121359931/8f871926-5563-4b82-8151-ea8a2bbe80fa)
+![7](https://github.com/mohamad9014/spindle-rate-/assets/121359931/e8ef0675-eee7-4885-81a9-c36b9dcd37d7)
+
+
+
+
+
 
 
 
